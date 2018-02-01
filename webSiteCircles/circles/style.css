@@ -75,11 +75,29 @@ td {
     border: 2px solid #287300;
 }
 /*РђРІС‚РѕРјР°С‚РёС‡РЅРѕ СЃРјРµРЅСЏРЅРµ РЅР° СЂР°Р·РјРµСЂР° РЅР° СЃРЅРёРјРєРёС‚Рµ.*/
-img {
+#picture>img {
     max-width: 100%;
     max-height: 100%;
     height: auto;
     width:250p;
+}
+#picture_apolonius>img {
+	max-width: 100%;
+    max-height: 100%;
+    height:auto;
+    width:350p;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    width:300p;
+}
+#bisector>img {
+	max-width: 100%;
+    max-height: 100%;
+	height: auto;
+    width:400p;
 }
 /* Р¤РѕСЂРјР°С‚РёСЂР°РЅРµ РЅР° РїР»Р°РЅР° РЅР° СѓСЂРѕРєР°.*/
 #plan {
@@ -170,7 +188,7 @@ iframe
 
 .page {
     color: #143800;
-    font-size: 2.5vw;
+    font-size: 1.2vw;
     font-family: "Times New Roman", Times, serif;
     background-color: #91E664;
     border: .2vw solid #287300;
@@ -237,9 +255,17 @@ td {
     border: .2vw solid #287300;
 }
 /*РђРІС‚РѕРјР°С‚РёС‡РЅРѕ СЃРјРµРЅСЏРЅРµ РЅР° СЂР°Р·РјРµСЂР° РЅР° СЃРЅРёРјРєРёС‚Рµ.*/
-img {
+#picture img {
     max-width: 29vw;
     max-height: 39vh;
+}
+#bisector img {
+    max-width: 70vw;
+    max-height: 45vh;
+}
+img {
+    max-width: 40vw;
+    max-height: 45vh;
 }
 /* Р¤РѕСЂРјР°С‚РёСЂР°РЅРµ РЅР° РїР»Р°РЅР° РЅР° СѓСЂРѕРєР°.*/
 #plan {
