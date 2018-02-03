@@ -81,23 +81,23 @@ td {
     height: auto;
     width:250p;
 }
-#picture_apolonius>img {
+#picture_apolonius img {
 	max-width: 100%;
     max-height: 100%;
-    height:auto;
-    width:350p;
+    height:400px;
+    width:250p;
 }
 img {
     max-width: 100%;
     max-height: 100%;
-    height: auto;
-    width:300p;
+   height: auto;
+  /* width:300p;*/
 }
 #bisector>img {
 	max-width: 100%;
     max-height: 100%;
-	height: auto;
-    width:400p;
+    height: auto;
+   /* width:400px;*/
 }
 /* Р¤РѕСЂРјР°С‚РёСЂР°РЅРµ РЅР° РїР»Р°РЅР° РЅР° СѓСЂРѕРєР°.*/
 #plan {
